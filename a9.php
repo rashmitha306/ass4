@@ -12,8 +12,6 @@ function findselected(val) {
 } 
 </script> 
 </head>
-<body style="background-color: black;color: yellow;">
-<center>
      <h1>
         Employee Details
     </h1>
