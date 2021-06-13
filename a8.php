@@ -1,7 +1,6 @@
 <html>
 <head><title>Assignmen4</title></head>
 <body style="background-color: black;color: yellow;">
-<center>
      <h2>
         Student Registration
     </h2>
@@ -122,7 +121,7 @@
         }
     }     
 ?> 
-</center>
+
 </body>
 </html>
 
