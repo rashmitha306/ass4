@@ -1,6 +1,6 @@
 <html>
-<head><title>Assignmen4</title></head>
-<body style="background-color: black;color: yellow;">
+<head></head>
+
 <center>
      <h2>
         String Operations
